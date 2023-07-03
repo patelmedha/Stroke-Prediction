@@ -1,2 +1,1 @@
-# project2
-PROJECT 2
+# Stroke Prediction
